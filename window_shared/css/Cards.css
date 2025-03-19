@@ -449,9 +449,9 @@ display: none;
 .main-icon{
  justify-content: flex-start;
 }
-div p {
+/* div p {
   text-align: left;
-}
+} */
 .resText ul li {
   text-align: left;
 }
